@@ -12,8 +12,10 @@ Nesse projetinho nós aprendemos a fazer login com o Facebook utilizando a Class
 Créditos para Bonieky Lacerda. Pois aprendi isso em seu curso.
 
 Se precisarem de alguma ajuda, é só entrar em contato: 
-Site: https://thiagopetherson.tech/
-email: thiagopetherson@outlook.com
+
+- Site: https://thiagopetherson.tech/
+- email: thiagopetherson@outlook.com
+- Download da bibliotaca do facebook: https://developers.facebook.com/
 
 # Bom uso! Que a força esteja com vocês! 
 
