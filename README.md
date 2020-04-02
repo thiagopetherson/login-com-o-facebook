@@ -19,3 +19,5 @@ Se precisarem de alguma ajuda, é só entrar em contato:
 
 # Bom uso! Que a força esteja com vocês! 
 
+Atualizando: Adicionei mais um arquivinho em Word que ensina a utilizar a API OpenGraph. Que é ótima para se fazer testes com os dados que são retornados como resposta do facebook. 
+
