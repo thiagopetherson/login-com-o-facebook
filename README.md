@@ -5,6 +5,8 @@ Nesse projetinho nós aprendemos a fazer login com o Facebook utilizando a Class
 
 - Utilizamos a biblioteca do Facebook, que possui uma classe (classe facebook) que possui todos os métodos necessários para se fazer essa comunicação com o Facebook. 
 
+- Após receber essa resposta do Facebook com os dados do usuário, é só manipulá-los e ser feliz.
+
 - Além dos arquivos, também preparei um arquivo que está em Word para ajudar vocês no passo a passo de criação desse projeto. 
 
 Créditos para Bonieky Lacerda. Pois aprendi isso em seu curso.
