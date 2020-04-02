@@ -7,9 +7,9 @@ Nesse projetinho nós aprendemos a fazer login com o Facebook utilizando a Class
 
 - Além dos arquivos, também preparei um arquivo que está em Word para ajudar vocês no passo a passo de criação desse projeto. 
 
-# Créditos para Bonieky Lacerda. Pois aprendi isso em seu curso.
+Créditos para Bonieky Lacerda. Pois aprendi isso em seu curso.
 
-# Se precisarem de alguma ajuda, é só entrar em contato: 
+Se precisarem de alguma ajuda, é só entrar em contato: 
 Site: https://thiagopetherson.tech/
 email: thiagopetherson@outlook.com
 
