@@ -1,5 +1,5 @@
 # login-com-o-facebook
-Nesse projetinho nós aprendemos a fazer login com o Facebook utilizando a Classe Facebook
+Nesse projetinho nós aprendemos a fazer login com o Facebook utilizando a Classe Facebook, com PHP e conceitos de Webservice.
 
 - Vamos criar um mini sistema que ensina (provavelmente encaminha e abre a mente) para que possamos inserir essa opção nos nosso projetos pessoais. 
 
